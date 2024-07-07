@@ -1,0 +1,26 @@
+{
+  "name": "highlightjs-1c-enterprise",
+  "version": "1.0.0",
+  "description": "Highlight.js syntax definition for 1C:Enterprise",
+  "main": "src/languages/1c-enterprise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highlightjs/highlightjs-1c-enterprise.git"
+  },
+  "keywords": [
+    "1c",
+    "enterprise",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Josh Goebel <hello@joshgoebel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highlightjs/highlightjs-1c-enterprise/issues"
+  },
+  "homepage": "https://github.com/highlightjs/highlightjs-1c-enterprise"
+}
